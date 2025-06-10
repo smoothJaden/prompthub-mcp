@@ -1,0 +1,2 @@
+export { WebConnector, type WebConnectorConfig, type WebRequest, type WebResponse } from './web-connector.js';
+export { DatabaseConnector, type DatabaseConfig, type QueryResult, type QueryOptions } from './database-connector.js'; 
